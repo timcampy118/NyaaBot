@@ -6,207 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a758b449-b171-4463-874f-72bc2c1a0688" name="Default" comment="Final Update V1.0">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/fileChanges/last-build.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/NyaaBot_main_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__club_minnced_opus_java_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__club_minnced_opus_java_api_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__club_minnced_opus_java_natives_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_ason_1_4_16.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_natanbc_reliqua_2_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_googlecode_json_simple_json_simple_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_graphql_java_graphql_java_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_graphql_java_java_dataloader_2_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_intellij_annotations_12_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jagrosh_jda_utilities_command_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jagrosh_jda_utilities_commons_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jagrosh_jda_utilities_doc_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jagrosh_jda_utilities_examples_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jagrosh_jda_utilities_menu_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_neovisionaries_nv_websocket_client_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_moshi_moshi_1_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_15_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vdurmont_emoji_java_4_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_duncte123_weebJava_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_dv8tion_JDA_3_7_1_394.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jna_jna_4_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_trove4j_trove4j_3_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_antlr_antlr4_runtime_4_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_collections4_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_text_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_json_json_20170516.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__club_minnced_opus_java_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__club_minnced_opus_java_api_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__club_minnced_opus_java_natives_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jagrosh_jda_utilities_command_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jagrosh_jda_utilities_commons_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jagrosh_jda_utilities_doc_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jagrosh_jda_utilities_example_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jagrosh_jda_utilities_package_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mashape_unirest_unirest_java_1_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_neovisionaries_nv_websocket_client_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_dv8tion_JDA_3_6_0_375.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_trove4j_trove4j_3_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160810.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/NyaaBot.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/NyaaBot_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/NyaaBot_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/NyaaBot.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/currKey.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/currValue.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/AggieSamaV1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/NyaaChanV1.0.0.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/NyaaChanV1.0.0.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/output_08-22-00-38.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/output_09-04-11-35.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/output_09-11-23-06.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/output_09-12-22-42.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/NyaaBot_main_jar/output_09-25-19-09.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/CheckCurrCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/DailyCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/FishCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/GiveCurrCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/Items.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/ListItemsCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/RaidCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/RedeemCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/SellItemCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/SetCurrCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/TopCurrCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/buyItemCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Curr/getItemsCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Marriage/BuyMarriageSlotCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Marriage/ListMarriageCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Marriage/Marriage.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Marriage/MarryCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Misc/DanceCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AddChannelCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AddEmoteCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AddIgnoreCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AddItemCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/DocpileCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/DrawpileCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/GameCmd$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/GameCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/HellstreamCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/JpvcCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/KaraokeCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/MarathonCmd$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/MarathonCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/MarathonWinCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/AnnouncementCmd/WeeklyCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/CleanCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/HelpmeCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/KickCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/RemoveChannelCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/RemoveEmoteCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/RemoveIgnoreCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/SendMsgCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/ShowChannelCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/ShowEmoteCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/ModCmds/ShowIgnoreCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/AUGenCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/Anilist.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/AvatarCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/CatCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/ChangeLogCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/Connection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/Constants.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/InviteCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/JokeCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/ModCommandsCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/NonsenseCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/NyaaHype.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/OwnerCommandsCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/PingCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/ReportCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/RollCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/RoomCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/TeruCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/UseEmoteCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/UseEmoteSpamCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/birthdayCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/Nyaa/timeCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/NyaaBot/ModCmds/AnnouncementCmd/NSFWDocpileCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/EvalCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/GetAnimatedCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/GetChannelOverrideCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/GetEmoteListCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/GetHistoryCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/GetImageCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/GetMembersListCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/LeaveServer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/ListChannelIDCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/ListGuildsCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/SetAvatarCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/SetGameCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/SetNameCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/SetNickCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/ShutdownCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/StatsCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/TestCmd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/OwnerCmds/UserLookup.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/resources/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_08-18-00-42.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_08-18-16-34.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_08-18-17-03.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_08-18-17-26.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output_09-26-03-43.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sec/main/resources/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" />
+    <list default="true" id="a758b449-b171-4463-874f-72bc2c1a0688" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src" afterPath="$PROJECT_DIR$/src" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -229,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nyaa/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -259,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+            <state relative-caret-position="867">
+              <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -363,6 +165,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -887,10 +692,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -944,6 +745,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1141,7 +946,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537951976332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final Update V1.0">
+      <created>1537955509921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537955509921</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1150,7 +962,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33385092" sideWeight="0.4937413" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1175,6 +986,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33385092" sideWeight="0.4937413" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.49683544" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1535,14 +1347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nyaa/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1569,8 +1373,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        <state relative-caret-position="867">
+          <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nyaa/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
           <folding />
         </state>
       </provider>

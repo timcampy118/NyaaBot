@@ -6,13 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a758b449-b171-4463-874f-72bc2c1a0688" name="Default" comment="Final Update V1.0">
+    <list default="true" id="a758b449-b171-4463-874f-72bc2c1a0688" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/output_08-18-00-42.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output_08-18-16-34.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output_08-18-17-03.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output_08-18-17-26.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/output_09-26-03-43.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src" afterPath="$PROJECT_DIR$/src" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,31 +34,9 @@
       <file leaf-file-name="Constants.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nyaa/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="116" column="26" lean-forward="true" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
-              <folding>
-                <element signature="e#1329#1337#0" expanded="true" />
-                <element signature="e#3373#3395#0" expanded="true" />
-                <element signature="e#3466#3486#0" expanded="true" />
-                <element signature="e#3550#3558#0" expanded="true" />
-                <element signature="e#3626#3634#0" expanded="true" />
-                <element signature="e#3706#3723#0" expanded="true" />
-                <element signature="e#3826#3868#0" expanded="true" />
-                <element signature="e#3938#3959#0" expanded="true" />
-                <element signature="e#4030#4052#0" expanded="true" />
-                <element signature="e#4125#4147#0" expanded="true" />
-                <element signature="e#4843#4872#1" expanded="true" />
-                <element signature="e#4915#4944#1" expanded="true" />
-                <element signature="e#5465#5473#0" expanded="true" />
-                <element signature="e#5779#5787#0" expanded="true" />
-                <element signature="e#6196#6204#0" expanded="true" />
-                <element signature="e#7813#7820#0" expanded="true" />
-                <element signature="e#7923#7952#1" expanded="true" />
-                <element signature="e#8389#8418#1" expanded="true" />
-                <element signature="e#9466#9492#0" expanded="true" />
-                <element signature="e#9691#9720#1" expanded="true" />
-                <element signature="e#10931#10957#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="127" column="41" lean-forward="false" selection-start-line="127" selection-start-column="41" selection-end-line="127" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,7 +69,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
   </component>
@@ -622,10 +595,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -660,6 +629,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -832,10 +805,12 @@
       <item index="2" class="java.lang.String" itemvalue="Application.Connection (2)" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.Connection (2)" />
         <item index="1" class="java.lang.String" itemvalue="Application.Connection (1)" />
         <item index="2" class="java.lang.String" itemvalue="Application.Connection" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Connection (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Connection (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -923,7 +898,28 @@
       <option name="project" value="LOCAL" />
       <updated>1538008039394</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New Branch Messed up">
+      <created>1538043167156</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1538043167156</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New Branch Messed up">
+      <created>1538043650087</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538043650087</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New Branch Messed up">
+      <created>1538043952439</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1538043952439</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -966,7 +962,8 @@
   <component name="VcsManagerConfiguration">
     <option name="LIMIT_HISTORY" value="false" />
     <MESSAGE value="Final Update V1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Update V1.0" />
+    <MESSAGE value="New Branch Messed up" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Branch Messed up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1202,13 +1199,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nyaa/birthdayCmd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="39" column="75" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Curr/DailyCmd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -1319,33 +1309,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nyaa/birthdayCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nyaa/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="116" column="26" lean-forward="true" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
-          <folding>
-            <element signature="e#1329#1337#0" expanded="true" />
-            <element signature="e#3373#3395#0" expanded="true" />
-            <element signature="e#3466#3486#0" expanded="true" />
-            <element signature="e#3550#3558#0" expanded="true" />
-            <element signature="e#3626#3634#0" expanded="true" />
-            <element signature="e#3706#3723#0" expanded="true" />
-            <element signature="e#3826#3868#0" expanded="true" />
-            <element signature="e#3938#3959#0" expanded="true" />
-            <element signature="e#4030#4052#0" expanded="true" />
-            <element signature="e#4125#4147#0" expanded="true" />
-            <element signature="e#4843#4872#1" expanded="true" />
-            <element signature="e#4915#4944#1" expanded="true" />
-            <element signature="e#5465#5473#0" expanded="true" />
-            <element signature="e#5779#5787#0" expanded="true" />
-            <element signature="e#6196#6204#0" expanded="true" />
-            <element signature="e#7813#7820#0" expanded="true" />
-            <element signature="e#7923#7952#1" expanded="true" />
-            <element signature="e#8389#8418#1" expanded="true" />
-            <element signature="e#9466#9492#0" expanded="true" />
-            <element signature="e#9691#9720#1" expanded="true" />
-            <element signature="e#10931#10957#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="127" column="41" lean-forward="false" selection-start-line="127" selection-start-column="41" selection-end-line="127" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>

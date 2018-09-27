@@ -1,3 +1,0 @@
-[helpers]<Tim>: +ping
-[helpers]<Nyaa Chan>: Ping: ...
-[helpers]<Tim>: +shutdown
